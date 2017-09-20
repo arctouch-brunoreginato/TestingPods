@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "TestingPods"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "Just testing pods"
   s.description  = "A description that must be bigger than description"
   s.license      = 'MIT'
